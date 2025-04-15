@@ -1,12 +1,3 @@
-# 🛍️ Sales & Inventory Analysis Dashboards
-
-**Author:** Ankit Raj  
-**Tools Used:** Tableau, Excel  
-**File:** `Ankit_Raj_Dashboard.twbx`  
-**Domain:** Retail, Inventory Management, Sales Analytics
-
-## 📊 Project Overview
-
 This project features two professionally designed Tableau dashboards for analyzing sales and inventory data. It supports retail decision-making by providing actionable insights into vendor performance, stock movement, and sales trends.
 
 ## 🔍 Dashboards Included
